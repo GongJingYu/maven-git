@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("更新2");
         System.out.println("gjy 更新3");
         System.out.println("master ======");
+        System.out.println("gjy ======");
     }
 }
